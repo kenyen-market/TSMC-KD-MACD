@@ -1,1 +1,5 @@
-
+yfinance
+schedule
+pandas
+sendgrid
+pytz
